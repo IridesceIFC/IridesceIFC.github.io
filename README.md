@@ -14,10 +14,12 @@ permalink: /
 
 所有关于“虹烁独立区”的内容遵循CC BY-SA的许可协议³。
 
+目前关于“虹烁独立区”的内容还比较少，内容也比较简陋，希望大家多多包涵。
+
 ## 备注
 
 1. [Userpage of Cutesune -- Fur Affinity [dot] net](https://www.furaffinity.net/user/ryuujinzero/)
 
-2. [The Official Avali Wiki | Fandom](https://avali.fandom.com/wiki/The_Official_Avali_Wiki)
+2. [The Official Avali Wiki  Fandom](https://avali.fandom.com/wiki/The_Official_Avali_Wiki)
 
 3. [知识共享许可协议 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE)
