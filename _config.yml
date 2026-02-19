@@ -48,10 +48,10 @@ exclude:
   - _drafts
 
 collections:
-  iridesce:
+  posts:
     output: true
     permalink: /:collection/:path/
- cities:
+ pages:
     output: true
     permalink: /:collection/:path/
   others:
@@ -59,8 +59,8 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - iridesce
-  - cities
+  - posts
+  - pages
   - others
 
 page_width: 800px
