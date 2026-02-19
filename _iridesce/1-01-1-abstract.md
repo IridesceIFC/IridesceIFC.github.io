@@ -9,7 +9,7 @@ layout: post
 
 ---
 
-![]({{site.baseurl}}\assets\images\logo\iridesce%20logo.png)
+![虹烁独立区的标志]({{site.baseurl}}\assets\images\logo\iridesce%20logo.png)
 
 虹烁独立区的标志
 
