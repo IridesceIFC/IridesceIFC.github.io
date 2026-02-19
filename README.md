@@ -4,6 +4,8 @@ title: 虹烁独立区-首页
 permalink: /
 ---
 
+![虹烁独立区的标志]({{site.baseurl}}\assets\images\logo\iridesce%20logo.png)
+
 # 欢迎来到虹烁独立区！
 
 ---
