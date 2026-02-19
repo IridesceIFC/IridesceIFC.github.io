@@ -1,11 +1,17 @@
 ---
-title: “虹烁独立区”概述
+title: “虹烁独立区”（Iridesce Independent）概述
 author: TwoLoong
 date: 2026-02-19
 category: Iridesce
 layout: post
 
 ---
+
+---
+
+![]({{site.baseurl}}\assets\images\logo\iridesce%20logo.png)
+
+虹烁独立区的标志
 
 ---
 
