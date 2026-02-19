@@ -57,7 +57,8 @@ collections:
 
 ordered_collections:
   - iridesce
-  - cities
+  - posts
+  - pages
   - others
 
 page_width: 800px
