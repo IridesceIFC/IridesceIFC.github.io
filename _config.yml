@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            虹烁独立区
+longtitle:        虹烁独立区-信息中心
+author:          TwoLoong（二龙）
+email:            2351193195@qq.com
 description: >
-  Build Jekyll site with the GitBook style.
+  “一个简单到简陋的展示虹烁独立区相关设定内容的网站”
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://github.com/IridesceIFC.github.io'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -41,7 +41,7 @@ syntax_highlighter_style: colorful
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:                /:categories/:year-:month-:day-:title:output_ext
+permalink:                pretty
 
 # Disqus comments
 # disqushandler:            sighingnow
@@ -50,17 +50,17 @@ exclude:
   - _drafts
 
 collections:
-  pages:
+  iridesce:
     output: true
-    permalink: /:collection/:path/
-  others:
+    permalink: /iridesce/:path/
+  cities:
     output: true
-    permalink: /:collection/:path/
+    permalink: /cities/:path/
 
 ordered_collections:
   - posts
-  - pages
-  - others
+  - iridesce
+  - cities
 
 page_width: 800px
 
