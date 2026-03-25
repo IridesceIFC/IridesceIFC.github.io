@@ -1,10 +1,8 @@
 ---
 title: 文化与文化运动
 author: TwoLoong
-date: 2026-02-19
 category: Iridesce
 layout: post
-
 ---
 
 ---

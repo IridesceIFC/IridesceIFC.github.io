@@ -1,10 +1,8 @@
 ---
 title: 蓝移物流
 author: TwoLoong
-date: 2026-03-26
-category: companies
+category: Companies
 layout: post
-
 ---
 
 ---

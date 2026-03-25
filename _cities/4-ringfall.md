@@ -1,8 +1,7 @@
 ---
 title: 云府都市圈（Ringfall）
 author: TwoLoong
-date: 2026-02-19
-category: cities
+category: Cities
 layout: post
 ---
 

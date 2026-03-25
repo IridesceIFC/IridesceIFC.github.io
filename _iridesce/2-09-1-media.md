@@ -1,10 +1,8 @@
 ---
 title: 信息与媒体生态
 author: TwoLoong
-date: 2026-02-19
 category: Iridesce
 layout: post
-
 ---
 
 ---

@@ -1,10 +1,8 @@
 ---
 title: 天文地理
 author: TwoLoong
-date: 2026-02-19
 category: Iridesce
 layout: post
-
 ---
 
 ---
