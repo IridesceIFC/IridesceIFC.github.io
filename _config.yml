@@ -56,11 +56,26 @@ collections:
   cities:
     output: true
     permalink: /cities/:path/
-
+  companies:
+    output: true
+    permalink: /companies/:path/
+  stories:
+    output: true
+    permalink: /stories/:path/
+  news:
+    output: true
+    permalink: /news/:path/
+  misc:
+    output: true
+    permalink: /misc/:path/
 ordered_collections:
   - posts
   - iridesce
   - cities
+  - companies
+  - stories
+  - news
+  - misc
 
 page_width: 800px
 
