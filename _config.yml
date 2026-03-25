@@ -76,6 +76,38 @@ ordered_collections:
   - stories
   - news
   - misc
+# Default layout for collections to prevent blog-style URL generation
+defaults:
+  - scope:
+      path: ""
+      type: "iridesce"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "cities"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "companies"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "stories"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "misc"
+    values:
+      layout: page
 
 page_width: 800px
 
