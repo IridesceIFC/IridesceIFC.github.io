@@ -68,6 +68,9 @@ collections:
   misc:
     output: true
     permalink: /misc/:path/
+  end:
+    output: true
+    permalink: /end/:path/
 ordered_collections:
   - posts
   - iridesce
@@ -76,6 +79,7 @@ ordered_collections:
   - stories
   - news
   - misc
+  - end
 
 page_width: 800px
 
