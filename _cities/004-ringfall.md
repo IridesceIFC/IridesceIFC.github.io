@@ -13,7 +13,7 @@ layout: post
 
 ---
 
-![虹烁独立区的标志]({{site.baseurl}}\assets\images\maps\ringfall%20maps.png)
+![云府都市圈的地形与行政区划图]({{site.baseurl}}\assets\images\maps\ringfall%20maps.png)
 
 云府都市圈的地形与行政区划图
 
