@@ -18,6 +18,8 @@ permalink: /
 
 目前关于“虹烁独立区”的内容还比较少，内容也比较简陋，希望大家多多包涵。
 
+_最后更新于2026.06.30_
+
 ## 备注
 
 1. [Userpage of Cutesune -- Fur Affinity [dot] net](https://www.furaffinity.net/user/ryuujinzero/)
