@@ -21,17 +21,17 @@ layout: post
 
 - 红标：高性能产品（RP，Red;Performance）
 
-- 金标：旗舰级产品（AU，Aurum;Ultimate
+- 金标：旗舰级产品（AU，Aurum;Ultimate）
 
-- 绿标：节能型产品（GE，Green;Eco
+- 绿标：节能型产品（GE，Green;Eco）
 
-- 蓝标：持久型产品（IE，Indigo‌;Endurance
+- 蓝标：持久型产品（IE，Indigo‌;Endurance）
 
-- 紫标：新技术产品（PT，Purple;Tech
+- 紫标：新技术产品（PT，Purple;Tech）
 
-- 黑标：耐久型产品（BR，Black;Ruggedness
+- 黑标：耐久型产品（BR，Black;Ruggedness）
 
-- 银标：均衡型产品（WB，White;Balanced
+- 银标：均衡型产品（WB，White;Balanced）
 
 其中，色标所代表的是产品特征或设计取向，而非简单的性能等级。因此，不同色标之间不存在固定的高低关系。  红标产品并不一定优于蓝标产品；红标主要表示产品在性能输出方面具有突出表现，而蓝标则表示其具有较强的持续运行能力。
 
