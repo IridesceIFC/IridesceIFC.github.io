@@ -1,5 +1,5 @@
 ---
-title: “虹烁独立区”（Iridesce Independent）概述
+title: 独立区概述
 author: TwoLoong
 category: Iridesce
 layout: post
