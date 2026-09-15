@@ -101,7 +101,7 @@ _（此条目仍在持续修改调整中）_
 
 #### 分离相关型
 
-分离相关型失群症（Separation-associated pack Loss Disorder）主要由 pack 长期分离或无法维持正常联系引起。
+分离相关型失群症（Separation-associated Pack Loss Disorder）主要由 pack 长期分离或无法维持正常联系引起。
 
 与以上两种不同，该类型通常不存在明确的灾难性、突发性的事件诱因。常见诱因有：
 
